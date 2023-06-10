@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/dashboard](https://www.datascienceportfol.io/dashboard)
 
-- 💬 Ask me about **MySQL, Python**
+- 💬 Ask me about **SQL, Python**
 
 - 📫 How to reach me **tadvishal.vt77@gmail.com**
 
